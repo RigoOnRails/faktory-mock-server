@@ -1,6 +1,9 @@
 [package]
 name = "faktory-mock-server"
+description = "A mock TCP server for testing Faktory job queuing."
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/RigoOnRails/faktory-mock-server"
 
 [dependencies]
